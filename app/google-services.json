@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "272526358891",
+    "firebase_url": "https://sharenotes-203211.firebaseio.com",
+    "project_id": "sharenotes-203211",
+    "storage_bucket": "sharenotes-203211.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272526358891:android:7caa4fe3fac33d40",
+        "android_client_info": {
+          "package_name": "com.example.tamir.sharenotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272526358891-8dkfgkij7hurlglve1r0usq6v27udgsk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tamir.sharenotes",
+            "certificate_hash": "a30bca8b8d0c8e6bde433fed1f28f7a4518cbcea"
+          }
+        },
+        {
+          "client_id": "272526358891-jnln22p0m6c4pngi1g78aertolgjt08k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6DrtHfnD_TAF6mwWnSSCuXzZSgLEulFg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272526358891-jnln22p0m6c4pngi1g78aertolgjt08k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
